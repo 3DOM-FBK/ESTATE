@@ -1,7 +1,7 @@
 # ESTATE: A LARGE DATASET OF UNDER-REPRESENTED URBAN OBJECTS FOR 3D POINT CLOUD CLASSIFICATION
 #
 We offer to the community the ESTATE dataset which combines available datasets creating from various sensors, densities, regions and object types. 
-** Why ESTATE?
+Why ESTATE?
 - to better handle and segment generally under-represented urban objects in available datasets/benchmarks which can hardly be segmented with state-of-the-art neural networks;
 - generalization issues across datasets using current deep learning approaches due to the heterogeneity of sensors, data, and locations.
 
