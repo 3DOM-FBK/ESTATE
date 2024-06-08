@@ -53,7 +53,7 @@ Two different training and testing approaches are shared:
 
 
 ## Credits and reference
-The ESTATE dataset is publicly available for research purposes. If you use this dataset for your research, please cite the repository and follwoing publication: 
+The ESTATE dataset is publicly available for research purposes. If you use this dataset for your research, please cite the repository and following publication: 
 - O. C. Bayrak, M. Zhenyu, E. M. Farella, F. Remondino, and M. Uzar, 2024: ESTATE: a large dataset of under-represented urban objects for 3D point cloud classification. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XLVIII-2-2024
 
 
