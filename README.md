@@ -6,6 +6,10 @@ We offer to the community the ESTATE dataset which combines available datasets c
 - to better handle and segment generally under-represented urban objects in available datasets/benchmarks which can hardly be segmented with state-of-the-art neural networks;
 - to support generalization issues across datasets using current deep learning approaches due to the heterogeneity of sensors, data and locations.
 
+<center>Some representative datasets for object classification in point clouds:
+<img src="https://github.com/3DOM-FBK/ESTATE/blob/master/sota.png">
+</center>
+
 ESTATE includes 13 classes featuring intensity and/or colour attributes, extracted and merged from 11 MLS / ALS / UAV-Photogrammetry available datasets:
 - Light Pole
 - Traffic Light
@@ -20,10 +24,6 @@ ESTATE includes 13 classes featuring intensity and/or colour attributes, extract
 - Bus
 - Chimney
 - Ventilation
-
-<center>Some representative datasets for object classification in point clouds:
-<img src="https://github.com/3DOM-FBK/ESTATE/blob/master/sota.png">
-</center>
 
 <center>
 Selected datasets and extracted objects (classes) in ESTATE:
