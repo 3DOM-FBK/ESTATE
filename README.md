@@ -42,7 +42,7 @@ The ESTATE dataset contains data in three different configurations:
 - XYZ + intensity
 Two different training and testing approaches are shared:
 - Single-Train Single-Test - **STST**: randomly selected 70% of the objects in each dataset as training and 30% as test and perform training and testing for each dataset;
-- All-Train All-Test - **ATAT**): all train and test sets of STST are merged to examine the classification performance in general; the model is then trained and tested on a dataset basis (All-Train Single-Test (ATST) and compared to STST. 
+- All-Train All-Test - **ATAT**): all train and test sets of STST are merged to examine the classification performance in general.
 
 
 ## Download
