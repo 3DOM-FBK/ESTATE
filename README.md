@@ -21,11 +21,14 @@ ESTATE includes 13 classes featuring intensity and/or colour attributes:
 - Chimney
 - Ventilation
 
-<center><img src="https://github.com/3DOM-FBK/ESTATE/blob/master/sota.png"><br>
-Some representative datasets for object classification in point clouds.</center>
+<center>Some representative datasets for object classification in point clouds
+<img src="https://github.com/3DOM-FBK/ESTATE/blob/master/sota.png">
+</center>
 
-<center><img src="https://raw.githubusercontent.com/3DOM-FBK/ESTATE/master/estate.png"><br>
-Figure 1: Some objects included in the ESTATE dataset.</center>
+<center>
+Some objects included in the ESTATE dataset
+<img src="https://raw.githubusercontent.com/3DOM-FBK/ESTATE/master/estate.png">
+</center>
 
 Our tests with ESTATE demonstrate that the dataset improves the classification performance of deep learning techniques and could be a game-changer to advance in the 3D classification of urban objects.
 
