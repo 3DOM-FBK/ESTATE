@@ -35,17 +35,17 @@ Some objects included in the ESTATE dataset:
 <img src="https://raw.githubusercontent.com/3DOM-FBK/ESTATE/master/estate.png">
 </center>
 
-Our tests with ESTATE demonstrate that the dataset improves the classification performance of deep learning techniques and could be a game-changer to advance in the 3D classification of urban objects.
+Our experiments with ESTATE demonstrated that the dataset improves the classification performance of deep learning techniques and could be a game-changer to advance in the 3D classification of urban objects.
 The ESTATE dataset contains data in three different configurations: 
 - XYZ 
 - XYZ + RGB
 - XYZ + intensity
-Two different training and testing approaches are shared:
+Two different training and testing approaches were applied:
 - Single-Train Single-Test - **STST**: randomly selected 70% of the objects in each dataset as training and 30% as test and perform training and testing for each dataset;
 - All-Train All-Test - **ATAT**): all train and test sets of STST are merged to examine the classification performance in general.
+So far only the training sets are shared, on the other hand, the test sets of the dataset will be shared after the review process of our journal paper is completed.
 
-
-## Download
+## Download of the training sets
 |  Dataset | link |
 |---|---|
 |  STST | <a href="https://drive.google.com/drive/folders/12fJYh1dJ2Z0_XM9chfdBrpATVPL_z4XB?usp=drive_link">download</a>|
